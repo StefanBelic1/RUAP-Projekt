@@ -10,7 +10,7 @@ namespace _1projekt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("„Pozdrav iz aplikacije od Stefan Belic");
+            Console.WriteLine("„Pozdrav iz aplikacije od Stefan Belic 64723");
         }
     }
 }
